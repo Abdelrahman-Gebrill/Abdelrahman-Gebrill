@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abdelrahman-Gebrill
 - 👀 I’m interested in backend development
 - 🌱 I’m currently learning Django and asp.net. it seems unusual, but my first step in programming was c# and my second journey began when learning python.
-- 💞️ I’m looking to collaborate with a team of developers who can enhance my programming cateer
+- 💞️ I’m looking to collaborate with a team of developers who can enhance my programming career
 - 📫 abdo.gebril2000@gmail.com
 
 <!---
